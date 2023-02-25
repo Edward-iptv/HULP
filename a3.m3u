@@ -1,27 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,Star Trek: Discovery  S01 E01
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/236655.mkv
-#EXTINF:-1,Star Trek: Discovery  S01 E02
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/236654.mkv
-#EXTINF:-1,Star Trek: Discovery  S01 E03
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/236653.mkv
-#EXTINF:-1,Star Trek: Discovery  S01 E04
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/236652.mkv
-#EXTINF:-1,Star Trek: Discovery  S01 E05
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/236651.mkv
 
-#EXTINF:-1,The Equalizer  S01 E01
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/225523.mp4
-#EXTINF:-1,The Equalizer  S01 E02
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/225522.mp4
-#EXTINF:-1,The Equalizer  S01 E03
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/225521.mp4
-#EXTINF:-1,The Equalizer  S01 E04
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/225520.mp4
-#EXTINF:-1,The Equalizer  S01 E05
-http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/225519.mp4
 
 #EXTINF:-1,Star Trek: Enterprise  S01E01
 http://181.215.178.135:80/series/kytv/tU7MJd6Zrb/129379.mkv
